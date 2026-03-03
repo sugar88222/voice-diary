@@ -6,6 +6,7 @@ hasCJKLanguage: true
 paginate: 10
 
 params:
+  author: シュガー
   homeInfoParams:
     Title: 寝る前の一言 🌙
     Content: 毎晩寝る前に話したこと、感じたこと。音声日記の記録です。
