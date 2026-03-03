@@ -1,0 +1,24 @@
+baseURL: "https://bumpdiamond222-design.github.io/voice-diary/"
+languageCode: ja
+title: 寝る前の一言
+theme: PaperMod
+hasCJKLanguage: true
+paginate: 10
+
+params:
+  homeInfoParams:
+    Title: 寝る前の一言 🌙
+    Content: 毎晩寝る前に話したこと、感じたこと。音声日記の記録です。
+  socialIcons:
+    - name: github
+      url: "https://github.com/bumpdiamond222-design"
+  ShowReadingTime: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  DateFormat: "2006年1月2日"
+
+menu:
+  main:
+    - name: アーカイブ
+      url: archives/
+      weight: 5
