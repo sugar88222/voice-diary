@@ -1,4 +1,4 @@
-baseURL: "https://bumpdiamond222-design.github.io/voice-diary/"
+baseURL: "https://sugar88222.github.io/voice-diary/"
 languageCode: ja
 title: 寝る前の一言
 theme: PaperMod
@@ -11,7 +11,7 @@ params:
     Content: 毎晩寝る前に話したこと、感じたこと。音声日記の記録です。
   socialIcons:
     - name: github
-      url: "https://github.com/bumpdiamond222-design"
+      url: "https://github.com/sugar88222"
   ShowReadingTime: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
